@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1421417551 source:c:\users\mahshid\desktop\huffman\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"huffmantree.h"
+	"manager.h"
+
+1421417551 "
+
+1421432383 c:\users\mahshid\desktop\huffman\huffmantree.h
+	<iostream>
+	<vector>
+	"Tnode.h"
+	"Bst.h"
+	"datastruct.h"
+	"vector"
+
+1421421228 
+
+1421313065 c:\users\mahshid\desktop\huffman\tnode.h
+	<iostream>
+	"huffmantree.h"
+
+1421317635 ee.h"
+
+1421344459 c:\users\mahshid\desktop\huffman\bst.h
+	<iostream>
+	"huffmantree.h"
+	"Bstnode.h"
+	"datastruct.h"
+
+1421342136 t.h"
+
+1421342136 c:\users\mahshid\desktop\huffman\bstnode.h
+	<iostream>
+	"huffmantree.h"
+	"datastruct.h"
+
+1421317635 c:\users\mahshid\desktop\huffman\datastruct.h
+	<iostream>
+	"huffmantree.h"
+
+1421421228 c:\users\mahshid\desktop\huffman\manager.h
+	<iostream>
+	"huffmantree.h"
+	<math.h>
+	<string>
+	<fstream>
+
+1421433578 source:/home/ali/Documents/University/3/DS/The Final Project/test/Huffman/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"huffmantree.h"
+	"manager.h"
+
+1421433559 /home/ali/Documents/University/3/DS/The Final Project/test/Huffman/huffmantree.h
+	<iostream>
+	<vector>
+	"Tnode.h"
+	"Bst.h"
+	"datastruct.h"
+	"vector"
+
+1421313064 /home/ali/Documents/University/3/DS/The Final Project/test/Huffman/Tnode.h
+	<iostream>
+	"huffmantree.h"
+
+1421344458 /home/ali/Documents/University/3/DS/The Final Project/test/Huffman/Bst.h
+	<iostream>
+	"huffmantree.h"
+	"Bstnode.h"
+	"datastruct.h"
+
+1421342136 /home/ali/Documents/University/3/DS/The Final Project/test/Huffman/Bstnode.h
+	<iostream>
+	"huffmantree.h"
+	"datastruct.h"
+
+1421317634 /home/ali/Documents/University/3/DS/The Final Project/test/Huffman/datastruct.h
+	<iostream>
+	"huffmantree.h"
+
+1421433434 /home/ali/Documents/University/3/DS/The Final Project/test/Huffman/manager.h
+	<iostream>
+	"huffmantree.h"
+	<math.h>
+	<string>
+	<fstream>
+
